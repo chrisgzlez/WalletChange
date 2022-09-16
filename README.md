@@ -1,4 +1,5 @@
 # WalletChange
+## Descripcion del Proyecto
 Programa que realiza el cambio de una cantidad introducida por linea de comandos usando el número mínimo de billetes y monedas según un diseño algoritmico voraz.
 El proyecto además permite el uso de distintos tipos de moneda (almacenados en .txt)
 Y soporta dos modos de cambio:
@@ -6,13 +7,13 @@ Y soporta dos modos de cambio:
    * Limitado: Con un stock límite de monedas. En este modo el programa es posible que no pueda producir cambio y debe avisar de ello, además está implementada una 
 función de re-stock.
 
-# Sumario del Proyecto
+## Sumario del Proyecto
 Sumario del Proyecto original tal cual se nos fué entregado encontrado en la carpeta 'Docs'
     
-# CARPETA TAD:
+## CARPETA TAD:
 Se encuentran los modulos TAD (tipos abstractos de datos) empleados en el programa principal. La implementación de estos TADs se nos fué proporcionado de antemano
     
-# ARCHIVOS:
+## ARCHIVOS:
 Se encuentran los siguientes archivos:
   * main: programa principal que incluye la interfaz de usuario (CLI)
   * utilities: reune diversas herramientas básicas para el programa (conversión de estructuras de datos, user input...)
