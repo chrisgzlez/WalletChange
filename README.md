@@ -1,9 +1,9 @@
 # WalletChange
 Programa que realiza el cambio de una cantidad introducida por linea de comandos usando el número mínimo de billetes y monedas según un diseño algoritmico voraz.
 El proyecto además permite el uso de distintos tipos de moneda (almacenados en .txt)
-Y soporta dos modos de cambio: 
-    * Ilimitado: Sin stock o limite de monedas o billetes a usar
-    * Limitado: Con un stock límite de monedas. En este modo el programa es posible que no pueda producir cambio y debe avisar de ello, además está implementada una 
+Y soporta dos modos de cambio:
+   * Ilimitado: Sin stock o limite de monedas o billetes a usar
+   * Limitado: Con un stock límite de monedas. En este modo el programa es posible que no pueda producir cambio y debe avisar de ello, además está implementada una 
 función de re-stock.
 
 # Sumario del Proyecto
