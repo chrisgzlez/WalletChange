@@ -1,7 +1,7 @@
 # WalletChange
 
 # Sumario del Proyecto
-    Sumario del Proyecto original tal cual se nos fué entregado encontrado en la carpeta 'Docs'
+Sumario del Proyecto original tal cual se nos fué entregado encontrado en la carpeta 'Docs'
     
 # CARPETA TAD:
 Se encuentran los modulos TAD (tipos abstractos de datos) empleados en el programa principal. La implementación de estos TADs se nos fué proporcionado de antemano
